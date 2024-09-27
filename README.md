@@ -104,46 +104,6 @@ This is here to list important topics & showcase some things I went through whil
 - Following the guide of WebGL Fundamentals on https://webglfundamentals.org/
 - Showcasing my progress through the guide. I'm mostly going by order but sometimes I skip around.
 
-## Part 1 - Hello WebGL!
-<p align="center">
-<img width=50% src="webgl-main/img-progress/1-HelloWorld.png">
-</p>
-
-## Part 2 - Multiple Rectangles with double Triangles
-<p align="center">
-<img width=50% src="webgl-main/img-progress/2-2DRectangles.png">
-</p>
-
-## Part 2 - Math Overhaul using 2D Matricies + Orthographic Projection
-<p align="center">
-<img width=50% src="webgl-main/img-progress/3-F2D.png">
-</p>
-
-## Part 3 - 3D Matrices + Depth Buffer + Backface Culling/Triangle Order
-<p align="center">
-<img width=50% src="webgl-main/img-progress/4-F3D.png">
-</p>
-
-## Part 4 - Prespective Projection
-<p align="center">
-<img width=50% src="webgl-main/img-progress/5-F3D-Perspective.png">
-</p>
-
-## Part 5 - Camera Study - Look At
-<p align="center">
-<img width=50% src="webgl-main/img-progress/6-F3D-Camera-Lookat.gif">
-</p>
-
-## Part 6 - Delta Time & Texture Sampling
-<p align="center">
-  <img src="webgl-main/img-progress/7-F3D-deltatime.gif" width=49%> <img src="webgl-main/img-progress/8-F3D-Texture-Sampling.gif" width=49%>
-</p>
-
-## Part 7 - Procedural Texture Generation + Cube
-<p align="center">
-  <img src="webgl-main/img-progress/9-3D-TextureGeneration.png" width=49%> <img src="webgl-main/img-progress/8-F3D-Texture-Sampling.gif" width=49%>
-</p>
-
 # Restart! - Voxel Time!
 
 ## Part 1 - Interpolated Triangle - Full refactored backend
