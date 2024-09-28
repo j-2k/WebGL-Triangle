@@ -104,16 +104,12 @@ This is here to list important topics & showcase some things I went through whil
 - Following the guide of WebGL Fundamentals on https://webglfundamentals.org/
 - Showcasing my progress through the guide. I'm mostly going by order but sometimes I skip around.
 
-# Restart! - Voxel Time!
-
-## Part 1 - Interpolated Triangle - Full refactored backend
+## Interpolated Triangle - Full refactored backend
 <p align="center">
-  <img src="voxxer/readme-images/1-Hello-World-Interpolated.png" width=49%>
+  <img src="readme-images/1-Hello-World-Interpolated.png" width=100% >
 </p>
+This project was originally a learning project now refactored for a vanilla boilerplate triangle project, for me to start back again from scratch, with most things provided!
 
-***I have decided to move this project entirely into a different repository as this repository already holds 3 different folders with different "projects/aims" & this structure for a repository is obviously wrong, so I just got a triangle boilerplate done with some very big backend refactors since I didnt like how my render loop & structure was back then. The continuation repos for this project plan is below!***
-
-### WebGL 1.0 Hello world triangle project : https://github.com/j-2k/WebGL-Triangle-Boilerplate
-
-### Voxxer Project Continuation : https://github.com/j-2k/VoxxerWebGL
+# Forked/Generated from this project:
+- Voxxer Project Continuation : https://github.com/j-2k/VoxxerWebGL
 
