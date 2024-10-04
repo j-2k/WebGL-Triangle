@@ -99,17 +99,12 @@ This is here to list important topics & showcase some things I went through whil
   - Column Major Order vs Row Major Order
   - Matrix Inverse (No need to go in deep but try to understand this concept for the camera!)
 
-
-# Progress Log
-- Following the guide of WebGL Fundamentals on https://webglfundamentals.org/
-- Showcasing my progress through the guide. I'm mostly going by order but sometimes I skip around.
-
-## Interpolated Triangle - Full refactored backend
+## Interpolated Triangle - With full refactored backend
 <p align="center">
   <img src="readme-images/1-Hello-World-Interpolated.png" width=100% >
 </p>
 This project was originally a learning project now refactored for a vanilla boilerplate triangle project, for me to start back again from scratch, with most things provided!
 
-# Forked/Generated from this project:
-- Voxxer Project Continuation : https://github.com/j-2k/VoxxerWebGL
+# Other projects I worked on generated from this!
+- Voxxer Project Continuation: https://github.com/j-2k/VoxxerWebGL
 
